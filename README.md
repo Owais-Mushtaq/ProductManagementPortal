@@ -1,1 +1,1 @@
-Inventory Management using MVC ASP framework with CRUD Operation and Authorization/Authentication.
+Product Management using MVC ASP framework with CRUD Operation and Authorization/Authentication.
