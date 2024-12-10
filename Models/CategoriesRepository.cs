@@ -59,10 +59,5 @@ namespace InventoryManagementPortal.Models
                 _categories.Remove(category);
             }
         }
-
-        internal static object UpdateCategory(object categoryId1, object categoryId2)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
